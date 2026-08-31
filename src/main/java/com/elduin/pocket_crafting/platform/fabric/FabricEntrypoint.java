@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.fabric;
+package com.elduin.pocket_crafting.platform.fabric;
 
 //? fabric {
 
-import com.example.modtemplate.ModTemplate;
+import com.elduin.pocket_crafting.ModTemplate;
 import dev.kikugie.fletching_table.annotation.fabric.Entrypoint;
 import net.fabricmc.api.ModInitializer;
 

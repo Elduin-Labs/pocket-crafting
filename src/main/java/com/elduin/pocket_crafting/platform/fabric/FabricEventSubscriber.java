@@ -1,8 +1,8 @@
-package com.example.modtemplate.platform.fabric;
+package com.elduin.pocket_crafting.platform.fabric;
 
 //? fabric {
 
-import com.example.modtemplate.event.ExampleEventHandler; // sample_content
+import com.elduin.pocket_crafting.event.ExampleEventHandler; // sample_content
 import net.fabricmc.fabric.api.entity.event.v1.ServerLivingEntityEvents; // sample_content
 import net.minecraft.server.level.ServerPlayer; // sample_content
 

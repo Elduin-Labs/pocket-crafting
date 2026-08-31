@@ -1,4 +1,4 @@
-package com.example.modtemplate.platform;
+package com.elduin.pocket_crafting.platform;
 
 public interface Platform {
 	boolean isModLoaded(String modId);

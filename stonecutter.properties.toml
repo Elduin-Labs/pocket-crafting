@@ -1,29 +1,28 @@
 loomx.loom_version="1.16-SNAPSHOT"
 
-mod.id = "modtemplate"
-mod.name = "Mod Template"
-mod.group = "com.example"
+
+mod.id = "pocket_crafting"
+mod.name = "Pocket Crafting"
+mod.group = "com.elduin"
 mod.version = "1.0.0"
 mod.channel_tag = ""
-mod.description = "Example Description"
+mod.description = "Craft anything without a crafting table — press a key and the full 3x3 grid opens wherever you are."
 mod.authors = ["Elduin"]
 mod.contributors = []
 mod.inception_year = "2026"
 mod.license.name = "MIT"
 mod.license.url = "https://opensource.org/licenses/MIT"
 mod.license.dist = "repo"
-mod.environment = "client_and_server"
-mod.sources_url = "https://github.com/Elduin-Labs/mod-template"
-mod.homepage_url = "https://github.com/Elduin-Labs/mod-template"
-mod.issues_url = "https://github.com/Elduin-Labs/mod-template/issues"
+mod.sources_url = "https://github.com/Elduin-Labs/pocket-crafting"
+mod.homepage_url = "https://github.com/Elduin-Labs/pocket-crafting"
+mod.issues_url = "https://github.com/Elduin-Labs/pocket-crafting/issues"
 mod.discord_url = ""
-
+mod.environment = "client_and_server"
 [[mod.pom.developers]]
 id = "elduin"
 name = "Elduin"
-url = "https://github.com/Elduin-Labs"
+url = "https://github.com/ghost"
 
-# KEEP IN SYNC with the version list in settings.gradle.kts.
 [fabric]
 deps.fabric-loader = "0.19.5"
 

@@ -1,6 +1,6 @@
-package com.example.modtemplate.event;
+package com.elduin.pocket_crafting.event;
 
-import com.example.modtemplate.ModTemplate;
+import com.elduin.pocket_crafting.ModTemplate;
 import net.minecraft.server.level.ServerPlayer;
 
 public class ExampleEventHandler {

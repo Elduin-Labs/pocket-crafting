@@ -1,12 +1,12 @@
-package com.example.modtemplate;
+package com.elduin.pocket_crafting;
 
-import com.example.modtemplate.platform.Platform;
+import com.elduin.pocket_crafting.platform.Platform;
 
 import net.minecraft.resources.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.example.modtemplate.platform.fabric.FabricPlatform;
+import com.elduin.pocket_crafting.platform.fabric.FabricPlatform;
 
 @SuppressWarnings("LoggingSimilarMessage")
 public class ModTemplate {
